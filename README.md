@@ -8,7 +8,7 @@
 	
 <div style="margin: 50px">
 <img src="https://raw.githubusercontent.com/WillCarlson-skillable/ignite2025-ai-practicelabs/refs/heads/main/images/PRACTICE_LABS_LOGO.png" style="width: 288px">
-<h1>Welcome to Practice Labs</h1>
+<h1>Welcome to Practice - Powered by Skillable AI</h1>
         <p>Get ready for <strong>unlimited opportunities to practice the skills you’re learning</strong>. These labs are designed to help you build confidence and capability through hands-on, real-world scenarios - because the more you practice, the more prepared you’ll be.</p>
         <h2>Why You’ll Love This Experience</h2>
         <ul>
